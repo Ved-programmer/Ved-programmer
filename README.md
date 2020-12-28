@@ -21,9 +21,9 @@ Experience = 1 year
 ### <img align="left" alt="JavaScript" width="26px" src="icons/javascript.png" /> JavaScript
 Experience = 1 Month
 ### <img align="left" alt="HTML5" width="26px" src="icons/html.png" /> HTML
-Experience = 2 Months
+Experience = 1 Month
 ### <img align="left" alt="CSS3" width="26px" src="icons/css.png" /> CSS
-Experience = 2 Months
+Experience = 1 Month
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-programmer)](https://github.com/anuraghazra/github-readme-stats)
 
