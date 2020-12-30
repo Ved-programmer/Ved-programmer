@@ -1,11 +1,13 @@
+<!-- markdownlint-disable-file -->
+
 ### Hi there 👋, My Name is Ved.
 
 ![Profile views](https://gpvc.arturio.dev/Ved-programmer)
 
 
-<!-- <a href="https://github.com/Ved-programmer"></a><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>
-<a href="https://stackoverflow.com/users/Ved-programmer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'></a> 
-<a href="https://Ved-programmer.github.io/Ved-programmer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'></a>   -->
+<a href="https://github.com/Ved-programmer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'></a>
+<a href="https://stackoverflow.com/users/14334440/ved-rathi"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'></a> 
+<a href="https://Ved-programmer.github.io/Ved-programmer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'></a> 
 
 ---
 
@@ -17,7 +19,7 @@
 # Tech Stack.
 
 ### <img align="left" alt="Python" width="26px" src="icons/python.png" /> Python
-Experience = 1 year
+Experience = 2 years
 ### <img align="left" alt="JavaScript" width="26px" src="icons/javascript.png" /> JavaScript
 Experience = 1 Month
 ### <img align="left" alt="HTML5" width="26px" src="icons/html.png" /> HTML
