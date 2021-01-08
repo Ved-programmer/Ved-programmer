@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-file -->
 
-### Hi there 👋, My Name is Ved.
+### Hi 👋, My Name is Ved.
 
 ![Profile views](https://gpvc.arturio.dev/Ved-programmer)
 
