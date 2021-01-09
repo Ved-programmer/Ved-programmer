@@ -36,17 +36,25 @@ Experience = 1 Month -->
 
 <br />
 
-### Games Made By Me : 
+# Games Made By Me : 
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ved-programmer&repo=TypingPro)
 
+<br />
+
+# Collaboration
+
+I am looking for collborating on different projects and repositories to expand my knowledge and connections. Contact me by an issue in this repository : https://github.com/Ved-programmer/Ved-programmer 
+
+<br />
 
 ---
 
 # More than 100 Contributions and Commits !🥳🎊🎉🎊🎉🥳
 
 2020 has been a great year for me even under lockdown !
+
 
 
 ## Stats
