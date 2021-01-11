@@ -1,13 +1,15 @@
 .header{
-    background-color: rgb(44, 255, 255);
     left: 0;
     position: fixed;
     top: 0;
     width: 100%;
-    color: #001368;
+    line-height: 0.1em;
 
+    color: #001368;
     font-family :'Courier New', Courier, monospace;
-    font-size : 0.75em;
+    font-size : 2em;
+    background-color: rgb(44, 255, 255);
+    
 
     z-index: 1;
 }
