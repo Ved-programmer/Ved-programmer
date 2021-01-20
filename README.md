@@ -22,8 +22,8 @@
 Experience = 1 year
 ### <img align="left" alt="JavaScript" width="26px" src="icons/javascript.png" /> JavaScript
 Experience = 1 Month
-### <img align="left" alt="HTML5" width="26px" src="icons/html.png" /> HTML
-Experience = 1 Month
+<!-- ### <img align="left" alt="HTML5" width="26px" src="icons/html.png" /> HTML
+Experience = 1 Month -->
 <!-- ### <img align="left" alt="CSS3" width="26px" src="icons/css.png" /> CSS
 Experience = 1 Month -->
 
