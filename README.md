@@ -53,8 +53,6 @@ I am looking for collborating on different projects and repositories to expand m
 
 # More than 100 Contributions and Commits !🥳🎊🎉🎊🎉🥳
 
-2020 has been a great year for me even under lockdown !
-
 
 
 ## Stats
