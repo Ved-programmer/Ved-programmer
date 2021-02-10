@@ -9,49 +9,73 @@
     font-family :'Courier New', Courier, monospace;
     font-size : 2em;
     background-color: rgb(44, 255, 255);
-    
 
     z-index: 1;
 }
+
 
 /* body{
     background-color: black;
 } */
 
+
 .gridContainer{
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-column-gap: 5%;
-    margin-left : 2.5%;
-    grid-row-gap: 5%;
+    grid-column-gap: 10%;
+    margin-left : 5%;
+    /* grid-row-gap: 10%; */
+    width : 90%;
 }
 
-img{
+
+.containerImage{
     width : 100%;
-    margin-top: 10%;
+    vertical-align: middle;
+    height : 100%;
 }
+
+
+.myDescription{
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    width : 100%;
+}
+
 
 ul{
     color : white;
     font-size: 2em;
 }
 
+
 ol{
     font-size: 0.8em;
     margin-left : 5%;
 }
+
 
 h2{
     color: rgb(255, 0, 0);
     font-size: 2.4em;
 }
 
+
 .aboutMe{
-    color:rgb(0, 255, 110);
-    font-size: 1.75em;
-    width: 80%;
+    display: grid;
+    grid-template-columns: 25% 55%;
+    grid-column-gap: 10%;
     margin-left : 10%;
+    padding-left : 5%;
+    padding-right : 5%;
+
+    background-color: rgb(67, 67, 141);
+    color:rgb(255, 255, 255);
+    font-size: 1.75em;
+    width : 70%;
 }
+
 
 a{
     color:rgb(139, 255, 255);
@@ -67,7 +91,60 @@ a{
     cursor: pointer;
     display: inline-block;
     padding : 1% 1%
-  }
+}
+
+
+.languagesPhoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width : 30%;
+}
+
+
+.repoImages{
+    width : auto;
+}
+
+
+
+@media only screen and (max-width: 950px){
+    .gridContainer{
+        display: grid;
+        grid-template-columns: 100%;
+        margin-left : 2.5%;
+        width : 95%;
+    }
+
+    .aboutMe{
+        font-size : 1.25em;
+        
+        width : 95%;
+        display: grid;
+        margin-left : 2.5%;
+        margin-right: 2.5%;
+        grid-template-columns: 95%;
+        padding-left : 2.5%;
+        padding-right : 2.5%;
+
+    }
+}
+
+
+@media only screen and (max-width: 550px){
+    .repoImages {
+        width : 100%;
+    } 
+}
+
+
+@media only screen and (max-width: 380px){
+    .header {
+        font-size : 1.25em;
+    }
+}
+
+
 
   /* On mouse-over */
 .btn:hover {background: rgba(136, 134, 0, 0.616);}
@@ -75,3 +152,4 @@ a{
 .github {color: rgb(0, 132, 255);}
 .blog {color: rgb(2, 163, 75);}
 .algoExpert {color: rgb(255, 94, 0);}
+
