@@ -13,6 +13,10 @@
     z-index: 1;
 }
 
+.aboutHeader{
+    color:#3cff00;
+}
+
 
 /* body{
     background-color: black;
@@ -56,7 +60,7 @@ ol{
 }
 
 
-h2{
+.sectionHeaders{
     color: rgb(255, 0, 0);
     font-size: 2.4em;
 }
