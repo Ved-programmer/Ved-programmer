@@ -51,7 +51,7 @@ I am looking for collborating on different projects and repositories to expand m
 
 ---
 
-# More than 500 Contributions and Commits !🥳🎊🎉🎊🎉🥳
+# More than 500 Contributions!🥳🎊🎉🎊🎉🥳
 
 
 
