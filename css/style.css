@@ -15,6 +15,7 @@
 
 .aboutHeader{
     color:#3cff00;
+    /* font-size: 2em; */
 }
 
 
@@ -45,6 +46,7 @@
     margin-top: auto;
     margin-bottom: auto;
     width : 100%;
+    /* font-size : 0.9em; */
 }
 
 
@@ -112,6 +114,19 @@ a{
 
 
 
+
+@media only screen and (max-width: 1250px){
+    .myDescription{
+        font-size : 0.9em;
+    }
+}
+
+@media only screen and (max-width: 1100px){
+    .myDescription{
+        font-size : 0.7em;
+    }
+}
+
 @media only screen and (max-width: 950px){
     .gridContainer{
         display: grid;
@@ -131,6 +146,10 @@ a{
         padding-left : 2.5%;
         padding-right : 2.5%;
 
+    }
+
+    .myDescription{
+        font-size : 1.1em;
     }
 }
 
