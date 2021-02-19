@@ -170,7 +170,7 @@ a{
 
 
   /* On mouse-over */
-.btn:hover {background: rgba(136, 134, 0, 0.616);}
+.btn:hover {background: rgb(255, 251, 0);}
 
 .github {color: rgb(0, 132, 255);}
 .blog {color: rgb(2, 163, 75);}
