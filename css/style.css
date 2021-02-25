@@ -8,7 +8,8 @@
     color: #001368;
     font-family :'Courier New', Courier, monospace;
     font-size : 2em;
-    background-color: rgb(44, 255, 255);
+    background-color: #001368;
+
 
     z-index: 1;
 }
