@@ -13,6 +13,19 @@
     z-index: 1;
 }
 
+.screenShow{
+    z-index: 2;
+    color : white;
+    font-size : 4em;
+    height : 100vh;
+    width : 100%;
+
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+
 .aboutHeader{
     color:#3cff00;
     /* font-size: 2em; */
