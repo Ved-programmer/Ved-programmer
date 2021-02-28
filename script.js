@@ -40,4 +40,4 @@ function typeWriter(){
   setTimeout(typeWriterBeginning, delay*2 + timeToExectueFirstTypeWriting, 0, lowerText, id2, speed);
 }
 
-
+typeWriter()
