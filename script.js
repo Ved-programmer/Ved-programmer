@@ -27,7 +27,7 @@ function typeWriter(){
   let upperText = "Sometimes The Pros Are Mixed With The Average"; let lowerText = "Gotta Sort And Search!"
   
   let id1 = "upperSubtitle"; let id2 = "lowerSubtitle";
-  let speed = 60;
+  let speed = 50;
   console.log(upperText.length);
   let timeToExectueFirstTypeWriting = upperText.length * speed;
 
