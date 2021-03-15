@@ -12,7 +12,6 @@
 ---
 
 - 🌱 I’m currently learning basic HTML, CSS and Javascript
-- 🤔 I’m looking for help with React
 - 💬 Ask me about Python, pro at it bro
 - ⚡ Fun fact: This readme layout is taken from somewhere, see if you can find it
 
