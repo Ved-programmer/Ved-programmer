@@ -3,15 +3,16 @@
     position: fixed;
     top: 0;
     width: 100%;
-    line-height: 0.1em;
+    line-height: 0em;
     /* height : 20vh; */
 
-    color: rgb(44, 255, 255);
+    color: white;
     font-family :'Courier New', Courier, monospace;
     font-size : 2em;
-    background-color: #001368;
+    background-color: black;
 
     z-index: 1;
+
 }
 
 .screenShow{
