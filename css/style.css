@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
 .header{
     left: 0;
     position: fixed;
@@ -7,7 +9,7 @@
     /* height : 20vh; */
 
     color: white;
-    font-family :'Courier New', Courier, monospace;
+    font-family :'jokerman';
     font-size : 2em;
     background-color: black;
 
@@ -27,6 +29,16 @@
     align-items: center;
 }
 
+.parentRepeatAbout{
+    font-size : 4em;
+    color : white;
+    font-family: 'Caveat', cursive;
+
+    height : 50vh;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
 
 .aboutHeader{
     color:#3cff00;
@@ -76,8 +88,10 @@ ol{
 
 
 .sectionHeaders{
-    color: rgb(255, 0, 0);
-    font-size: 2.4em;
+    color: rgb(115, 255, 0);
+    /* color: white; */
+    font-size: 2em;
+    font-family :Verdana, Geneva, Tahoma, sans-serif
 }
 
 
@@ -106,12 +120,11 @@ a{
     background-color: inherit;
     margin-left: 5%;
     margin-right: 5%;
-    font-size: 1.5em;
+    font-size: 1.75em;
     cursor: pointer;
     display: inline-block;
-    padding : 1% 1%
+    padding : 1% 1%;
 }
-
 
 .languagesPhoto{
     display: block;
@@ -137,6 +150,10 @@ a{
 @media only screen and (max-width: 1100px){
     .myDescription{
         font-size : 0.7em;
+    }
+
+    .parentRepeatAbout{
+        font-size : 3em;
     }
 }
 
@@ -177,6 +194,10 @@ a{
 @media only screen and (max-width: 450px){
     .header {
         font-size : 1.25em;
+    }
+
+    .parentRepeatAbout{
+        font-size : 2em;
     }
 }
 
