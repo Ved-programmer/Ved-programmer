@@ -4,8 +4,8 @@ function replaceAt(str, index, ch) {
 
 function typeWriterBeginning(i, txt, id, speed) {
   if (i < txt.length) {
-    innerHtml = document.getElementById(id).innerHTML
-    document.getElementById(id).innerHTML = replaceAt(innerHtml, i, txt.charAt(i))
+    innerHtml = document.getElementById(id).innerHTML;
+    document.getElementById(id).innerHTML = replaceAt(innerHtml, i, txt.charAt(i));
 
     i++;
     // console.log(i);
@@ -19,12 +19,12 @@ function fillIn(txt, id){
   let spaces = Array(txt.length).fill('\xa0').join('');
   // console.log(txt.length * " ");
   // console.log(spaces);
-  document.getElementById(id).innerHTML = spaces
+  document.getElementById(id).innerHTML = spaces;
 }
 
 function typeWriter(){
   let delay = 500;
-  let upperText = "Sometimes The Pros Are Mixed With The Average"; let lowerText = "Gotta Sort And Search!"
+  let upperText = "Sometimes The Pros Are Mixed With The Average"; let lowerText = "Gotta Sort And Search!";
   
   let id1 = "upperSubtitle"; let id2 = "lowerSubtitle";
   let speed = 50;
@@ -39,8 +39,6 @@ function typeWriter(){
   setTimeout(typeWriterBeginning, delay, 0, upperText, id1, speed);
   setTimeout(typeWriterBeginning, delay*2 + timeToExectueFirstTypeWriting, 0, lowerText, id2, speed);
 }
-
-
 
 document.addEventListener("DOMContentLoaded", function() {
     var lazyloadImages = document.querySelectorAll("img.lazy");    
@@ -72,4 +70,11 @@ document.addEventListener("DOMContentLoaded", function() {
     window.addEventListener("orientationChange", lazyload);
   });
 
-typeWriter()
+var typed = new Typed('#aboutMeSwitch', {
+    strings: ["Blogger", "Pro Programmer", "Pythonista", "AlgoExpert"],
+    typeSpeed: 50,
+    backSpeed: 30,
+    loop: true
+});
+
+typeWriter();
