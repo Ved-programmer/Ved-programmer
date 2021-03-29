@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
 var typed = new Typed('#aboutMeSwitch', {
-    strings: ["Blogger", "Pro Programmer", "Pythonista", "AlgoExpert"],
+    strings: ["a Blogger", "a Pro Programmer", "a Pythonista", "an AlgoExpert"],
     typeSpeed: 50,
     backSpeed: 30,
     loop: true
