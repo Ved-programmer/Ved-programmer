@@ -26,19 +26,19 @@ Experience = 1 Month -->
 <!-- ### <img align="left" alt="CSS3" width="26px" src="icons/css.png" /> CSS
 Experience = 1 Month -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-programmer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-programmer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Desktop Apps Made By Me :
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ved-programmer&repo=Login-System)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ved-programmer&repo=Numerical-Base-Converter)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ved-programmer&repo=Login-System&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ved-programmer&repo=Numerical-Base-Converter&theme=dark)
 
 <br />
 
 # Games Made By Me : 
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ved-programmer&repo=TypingPro)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ved-programmer&repo=TypingPro&theme=dark)
 
 <br />
 
@@ -56,7 +56,7 @@ I am looking for collborating on different projects and repositories to expand m
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ved-programmer&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ved-programmer&show_icons=true&count_private=true&theme=dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ved-programmer)
 
@@ -71,4 +71,4 @@ I am looking for collborating on different projects and repositories to expand m
 
 ---
 # Current Streak
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ved-programmer)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ved-programmer&theme=dark)  
