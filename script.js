@@ -78,3 +78,5 @@ var typed = new Typed('#aboutMeSwitch', {
 });
 
 typeWriter();
+
+
