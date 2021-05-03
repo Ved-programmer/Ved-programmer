@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-file -->
 
-### Hi 👋, My Name is Ved
+### Hi 👋, I am Ved The Pro
 
 ![Profile views](https://gpvc.arturio.dev/Ved-programmer)
 
@@ -72,3 +72,5 @@ I am looking for collborating on different projects and repositories to expand m
 ---
 # Current Streak
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ved-programmer&theme=dark)  
+
+
