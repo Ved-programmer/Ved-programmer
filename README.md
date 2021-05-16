@@ -61,10 +61,6 @@ I am looking for collborating on different projects and repositories to expand m
 ![GitHub metrics](https://metrics.lecoq.io/Ved-programmer)
 
 
-<!-- ## How much time I spend in Coding Per Week ?
-![Ved-programmer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ved-programmer) -->
-
-
 # Trophies / Acheivments.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ved-programmer)
