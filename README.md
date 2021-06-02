@@ -44,7 +44,7 @@ Experience = 1 Month -->
 
 # Collaboration
 
-I am looking for collborating on different projects and repositories to expand my knowledge and connections. Contact me by an issue in this repository : https://github.com/Ved-programmer/Ved-programmer 
+I am looking for collborating on different projects and repositories to expand my knowledge. Contact me by an issue in this repository : https://github.com/Ved-programmer/Ved-programmer 
 
 <br />
 
