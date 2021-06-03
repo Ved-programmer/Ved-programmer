@@ -42,12 +42,6 @@ Experience = 1 Month -->
 
 <br />
 
-# Collaboration
-
-I am looking for collborating on different projects and repositories to expand my knowledge. Contact me by an issue in this repository : https://github.com/Ved-programmer/Ved-programmer 
-
-<br />
-
 ---
 
 # More than 500 Contributions!🥳🎊🎉
