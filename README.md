@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-file -->
 
-### Yo 👋, I am Ved The Pro
+### Yo! 👋, I am Ved The Pro
 
 ![Profile views](https://gpvc.arturio.dev/Ved-programmer)
 
