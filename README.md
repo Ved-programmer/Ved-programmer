@@ -20,7 +20,7 @@
 ### <img align="left" alt="Python" width="26px" src="icons/python.png" /> Python
 Experience = 2 years
 ### <img align="left" alt="JavaScript" width="26px" src="icons/javascript.png" /> JavaScript
-Experience = 3 Months
+Experience = 5 Months
 <!-- ### <img align="left" alt="HTML5" width="26px" src="icons/html.png" /> HTML
 Experience = 1 Month -->
 <!-- ### <img align="left" alt="CSS3" width="26px" src="icons/css.png" /> CSS
