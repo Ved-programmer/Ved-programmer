@@ -11,10 +11,6 @@
 
 ---
 
-- 🌱 I’m currently learning basic HTML, CSS and Javascript
-- 💬 Ask me about Python, pro at it bro
-- ⚡ Fun fact: This readme layout is taken from somewhere, see if you can find it
-
 # Tech Stack.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-programmer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
