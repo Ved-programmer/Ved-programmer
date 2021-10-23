@@ -42,7 +42,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/Ved-programmer)
 
 
-# Trophies / Acheivments.
+# Trophies / Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ved-programmer)
 
