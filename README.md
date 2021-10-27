@@ -49,5 +49,3 @@
 ---
 # Current Streak
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ved-programmer&theme=dark)  
-
-
