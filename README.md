@@ -7,7 +7,6 @@
 
 <a href="https://github.com/Ved-programmer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='80'></a>
 <a href="https://stackoverflow.com/users/14334440/ved-rathi"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='80'></a> 
-<a href="https://Ved-programmer.github.io/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='80'></a> 
 
 ---
 
